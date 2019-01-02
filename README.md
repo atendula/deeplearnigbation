@@ -1,2 +1,3 @@
-# deeplearnigbation
-Collection of personal works used for learning about deep learning &amp; computer vision
+# Deep learning projects
+
+Collection of personal works that I will be doing in the process of learning about deep learning and object recognition
